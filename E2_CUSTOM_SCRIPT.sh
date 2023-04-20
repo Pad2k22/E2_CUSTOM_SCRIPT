@@ -63,7 +63,7 @@ echo $LINE
 echo "======================================"
 echo "INSTALLATION COMPLETED WITH SUCCESS"
 echo $LINE
-echo "After restarting remember to select the FLSI source via the EPG-IMPORTER plugin to get the epgs"
+echo "After restarting remember to select the Zeta source via the EPG-IMPORTER plugin to get the epgs"
 echo "======================================"
 echo $LINE
 echo $LINE
