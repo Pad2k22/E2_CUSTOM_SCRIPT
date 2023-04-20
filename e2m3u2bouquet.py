@@ -794,7 +794,7 @@ class Provider:
         if self.config.icon_path is None or TESTRUN == 1:
             self.config.icon_path = PICONSPATH
         if self.config.name is None:
-            self.config.name = "FLSI"
+            self.config.name = ""
 
         # If no username or password supplied extract them from m3u_url
         if (self.config.username is None) or (self.config.password is None):
