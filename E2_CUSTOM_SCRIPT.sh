@@ -70,4 +70,3 @@ echo $LINE
 echo "The system will restart in 5 seconds..."
 sleep 5
 reboot
-fi
